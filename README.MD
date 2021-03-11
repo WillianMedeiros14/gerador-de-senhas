@@ -56,7 +56,7 @@ Após isso, irá abrir uma janela no seu navegador, aguarde aparecer um qrcode n
 
 - Selecione o tamanho que a senha seja
 - Clique em "Gerar senha"
-- A senha irá aparecer a baixo do botao "Gerar senha"
+- A senha irá aparecer abaixo do botao "Gerar senha"
 - Para copiar a senha, pressione em cima da senha que foi gerada.
 
 ### 🛠 Tecnologias
